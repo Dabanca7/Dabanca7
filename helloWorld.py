@@ -1,2 +1,2 @@
-# This is version 1 my hello world program
-print ("Hello my name is Dabanca")
+# This is version 2 of my hello world program
+print ("Hello my name is Dabanca Chery")

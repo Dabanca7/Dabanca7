@@ -1,2 +1,2 @@
-# This is version 2 of my hello world program
-print ("Hello my name is Dabanca Chery")
+print("hello my name is dabanca")
+print("hello id Dabanca Chery")
